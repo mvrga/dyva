@@ -1,0 +1,23 @@
+DYVA — Drive Your Value Ahead
+
+1. Introdução
+O projeto DYVA tem como objetivo analisar a valorização de jogadores de futebol antes e após a Copa do Mundo, utilizando técnicas de Business Intelligence no Power BI.
+
+2. Importação de Dados
+Foram utilizados arquivos CSV baseados em dados do Transfermarkt, contendo informações sobre valor de mercado e eventos relevantes.
+
+3. Transformação de Dados
+Os dados foram tratados no Power Query, com ajustes de tipos, limpeza e criação da coluna "era" para análise temporal.
+
+4. Modelo de Dados
+O modelo foi estruturado com duas tabelas principais conectadas pelo campo "player".
+
+5. Dashboards e Visualizações
+Foram criados gráficos de linha e barras para análise de evolução de valor e comparação entre gerações.
+
+6. Conclusão
+Observa-se que o mercado atual antecipa a valorização dos jogadores antes de grandes eventos, diferentemente das gerações anteriores.
+
+7. Referências
+Transfermarkt
+Power BI Documentation
